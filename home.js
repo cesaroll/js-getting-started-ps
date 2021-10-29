@@ -1,1 +1,3 @@
-showMessage("Title...");
+showMessage ("Title...");
+
+console.log("any message");
